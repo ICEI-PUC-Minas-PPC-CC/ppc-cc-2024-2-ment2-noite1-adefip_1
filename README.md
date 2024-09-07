@@ -1,17 +1,18 @@
 # ADEFIP_1
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
+`PUC Minas campus Poços de Caldas - Ciência da Computação`
 `MENTORING 2`
 `2024/02`
 
 ## Integrantes
 
-- André Silva
-- Danilo Oliveira
-- Diana Vitoria
-- Luiz Gustavo
+- [André Henrique da Silva](https://github.com/AndreSilva89)
+- [Danilo Oliveira Andrade](https://github.com/Dandradedev)
+- [Diana Vitoria Silva Barbosa](https://github.com/dsanabarb)
+- [Luiz Gustavo Julio Salles](https://github.com/EL7SEVEN)
+- [Otavio Silva Ronsini](https://github.com/otavioronsini)
 
-## Professor
+## Professores
 
 - João Benedito dos Santos
 - Luciana de Nardin
