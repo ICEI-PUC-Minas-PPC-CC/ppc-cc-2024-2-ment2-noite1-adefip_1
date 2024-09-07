@@ -1,19 +1,21 @@
-# TÍTULO DO PROJETO
+# ADEFIP_1
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`MENTORING 2`
+`2024/02`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- André Silva
+- Danilo Oliveira
+- Diana Vitoria
+- Luiz Gustavo
 
 ## Professor
 
-- Mestre Yoda
+- João Benedito dos Santos
+- Luciana de Nardin
+  
 
 # Documentação
 
