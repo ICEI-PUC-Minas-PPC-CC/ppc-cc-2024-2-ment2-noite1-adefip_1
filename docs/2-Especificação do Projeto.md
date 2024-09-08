@@ -6,26 +6,22 @@ A Associação dos Deficientes Físicos de Poços de Caldas (ADEFIP) é um Centr
 
 ## Personas
 
-Exemplo:
+Persona 01
 
 |**Victor Hugo**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é um atendido da ADEFIP há 8 anos. 
 |**Motivações:** Se houvesse uma forma de atualizar ou inserir a tecnologia em suas cadeiras de roda para facilitar suas apresentações artísticas, o que tornaria mais prazero realizar suas danças.  |**Problema:** Sofre com problemas motores em suas pernas, o que faz com que utilize cadeiras de roda.   |**Hobbies, história:** Garoto meigo, que adora matemática e ama ir aos atendimentos da adefip, além de ser artista de dança.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
+Persona 02
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
+|**Victor Hugo**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é um atendido da ADEFIP há 8 anos. 
+|**Motivações:** Se houvesse uma forma de atualizar ou inserir a tecnologia em suas cadeiras de roda para facilitar suas apresentações artísticas, o que tornaria mais prazero realizar suas danças.  |**Problema:** Sofre com problemas motores em suas pernas, o que faz com que utilize cadeiras de roda.   |**Hobbies, história:** Garoto meigo, que adora matemática e ama ir aos atendimentos da adefip, além de ser artista de dança.
 
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
+
+
 
 ## Histórias de Usuários
 
