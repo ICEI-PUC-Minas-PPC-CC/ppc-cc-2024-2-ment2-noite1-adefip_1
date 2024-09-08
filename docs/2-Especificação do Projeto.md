@@ -1,8 +1,8 @@
-# Especificações do Projeto
+# Especificações do Projeto (ADEFIP)
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
+A Associação dos Deficientes Físicos de Poços de Caldas (ADEFIP) é um Centro de Reabilitação Multidisciplinar existente há 35 anos, no local são atendidos crianças, jovens e adultos com sequelas neuromotoras e ideia será a criação de alguma ferramenta ou software que irá ser utilizado na ADEFIP por pacientes e funcionários afim de facilitar seu trabalho e/ou terapia. Abaixo o exemplo de duas pessoas que sofrem de deficiências e que poderiam, por meio de trabalhos como o nosso que iremos realizar, serem atendidas e obtivessem uma melhora considerável em suas vidas.
 
 ## Personas
 
