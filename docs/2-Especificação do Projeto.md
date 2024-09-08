@@ -10,8 +10,8 @@ Exemplo:
 
 |**Victor Hugo**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é attendido da ADEFIP há 8 anos. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é um atendido da ADEFIP há 8 anos. 
+|**Motivações:** Garoto meigo, que adora matemática e ama ir aos atendimentos da adefip, além de ser artista de dança.  |**Problema:** Sofre com problemas motores em suas pernas, o que faz com que utilize cadeiras de roda.   |**Hobbies, história:** Se houvesse uma forma de atualizar ou inserir a tecnologia em suas cadeiras de roda para facilitar suas apresentações artísticas de dança.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
