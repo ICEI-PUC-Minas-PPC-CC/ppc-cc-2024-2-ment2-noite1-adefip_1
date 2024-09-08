@@ -15,10 +15,10 @@ Persona 01
 
 Persona 02
 
-|**Victor Hugo**|           |                             | 
+|**Lucas Henrique**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é um atendido da ADEFIP há 8 anos. 
-|**Motivações:** Se houvesse uma forma de atualizar ou inserir a tecnologia em suas cadeiras de roda para facilitar suas apresentações artísticas, o que tornaria mais prazero realizar suas danças.  |**Problema:** Sofre com problemas motores em suas pernas, o que faz com que utilize cadeiras de roda.   |**Hobbies, história:** Garoto meigo, que adora matemática e ama ir aos atendimentos da adefip, além de ser artista de dança.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 20 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido e funcionário da Adefip.       |**Atribuições:** Lucas trabalha na gráfica rápida da ADEFIP e é atendido. 
+|**Motivações:** Se pudesse ser criado um joystick adaptado para seu problema motor nas mãos, onde ele conseguisse jogar seus games com mais prazer.  |**Problema:** Tem problemas motores em uma de suas mãos.   |**Hobbies, história:** Lucas já é atendido da adefip há vários anos, e também passou a fazer parte do pessoal que trabalha na gráfica rápida da ADEFIP. Ele adora jogar bola, onde até mesmo já jogou pela instituição e ama jogar videogame, principalmente seu Playstation 2.
 
 
 
