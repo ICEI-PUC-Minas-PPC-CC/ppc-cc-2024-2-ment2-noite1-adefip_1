@@ -5,7 +5,6 @@
 A Associação dos Deficientes Físicos de Poços de Caldas (ADEFIP) é um Centro de Reabilitação Multidisciplinar existente há 35 anos, no local são atendidos crianças, jovens e adultos com sequelas neuromotoras e a ideia será a criação de alguma ferramenta ou software que irá ser utilizado na ADEFIP por pacientes e funcionários afim de facilitar seu trabalho e/ou terapia. Abaixo o exemplo de duas pessoas que sofrem de deficiências e que poderiam, por meio de trabalhos como o nosso que iremos realizar, serem atendidas e obtivessem uma melhora considerável em suas vidas.
 
 ## Personas 
-/Captura de Tela (2).png
 
 Persona 01
 
