@@ -4,14 +4,14 @@
 
 A Associação dos Deficientes Físicos de Poços de Caldas (ADEFIP) é um Centro de Reabilitação Multidisciplinar existente há 35 anos, no local são atendidos crianças, jovens e adultos com sequelas neuromotoras e a ideia será a criação de alguma ferramenta ou software que irá ser utilizado na ADEFIP por pacientes e funcionários afim de facilitar seu trabalho e/ou terapia. Abaixo o exemplo de duas pessoas que sofrem de deficiências e que poderiam, por meio de trabalhos como o nosso que iremos realizar, serem atendidas e obtivessem uma melhora considerável em suas vidas.
 
-## Personas ppc-cc-2024-2-ment2-noite1-adefip_1/docs/img
+## Personas 
 /Captura de Tela (2).png
 
 Persona 01
 
 |**Victor Hugo**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/Captura de Tela (2).png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é um atendido da ADEFIP há 8 anos. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/victor.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido da Adefip.       |**Atribuições:** Victor Hugo é um atendido da ADEFIP há 8 anos. 
 |**Motivações:** Se houvesse uma forma de atualizar ou inserir a tecnologia em suas cadeiras de roda para facilitar suas apresentações artísticas, o que tornaria mais prazero realizar suas danças.  |**Problema:** Sofre com problemas motores em suas pernas, o que faz com que utilize cadeiras de roda.   |**Hobbies, história:** Garoto meigo, que adora matemática e ama ir aos atendimentos da adefip, além de ser artista de dança.
 
 Persona 02
