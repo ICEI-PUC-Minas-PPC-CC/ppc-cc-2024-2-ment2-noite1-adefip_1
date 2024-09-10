@@ -17,7 +17,7 @@ Persona 02
 
 |**Lucas Henrique**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 20 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido e funcionário da Adefip.       |**Atribuições:** Lucas trabalha na gráfica rápida da ADEFIP e é atendido. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_1/blob/main/docs/img/lucasadefip.jpeg" width="200" height="200"/>|**Idade:** 20 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Atendido e funcionário da Adefip.       |**Atribuições:** Lucas trabalha na gráfica rápida da ADEFIP e é atendido. 
 |**Motivações:** Se pudesse ser criado um joystick adaptado para seu problema motor nas mãos, onde ele conseguisse jogar seus games com mais prazer.  |**Problema:** Tem problemas motores em uma de suas mãos.   |**Hobbies, história:** Lucas já é atendido da adefip há vários anos, e também passou a fazer parte do pessoal que trabalha na gráfica rápida da ADEFIP. Ele adora jogar bola, onde até mesmo já jogou pela instituição e ama jogar videogame, principalmente seu Playstation 2.
 
 
