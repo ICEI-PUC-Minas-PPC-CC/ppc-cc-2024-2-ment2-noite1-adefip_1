@@ -45,16 +45,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
+|RF-001| O dipositivo irá controlar alguns movimentos da cadeira de rodas | MÉDIA | 
+|RF-002| O dispositivo vai possuir os mesmos botões de um controle padrão da PlayStation | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
+|RNF-001| O dispositivo deve ser responsivo  | MÉDIA | 
+|RNF-002| O dispositivo precisa ter um tempo de resposat baixo, para não afetar a experiência dos jogos  |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
