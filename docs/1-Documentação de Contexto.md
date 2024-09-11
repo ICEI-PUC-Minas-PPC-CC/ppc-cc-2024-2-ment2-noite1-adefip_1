@@ -1,6 +1,6 @@
 # Introdução
 
- A Associação dos Deficientes Físicos de Poços de Caldas (ADEFIP) é uma instituição da cidade que busca habilitar e reabilitar deficientes físicos (qualquer tipo de deficiência) de todas as idades, para inclusão deles na sociedade. A associação conta com diversos centros (reabilitação, inclusão escolar, inclusão profissional, paradesportivo) e uma vasta equipe multidisciplinar para abordagem e terapia. 
+ A Associação dos Deficientes Físicos de Poços de Caldas [(ADEFIP)](https://www.instagram.com/adefip/) é uma instituição da cidade que busca habilitar e reabilitar deficientes físicos (qualquer tipo de deficiência) de todas as idades, para inclusão deles na sociedade. A associação conta com diversos centros (reabilitação, inclusão escolar, inclusão profissional, paradesportivo) e uma vasta equipe multidisciplinar para abordagem e terapia. 
  --encaixar um problema quando soubermos o que iremos realizar --. 
   Nosso grupo busca --após conversa com os responsáveis-- projetar e criar uma solução que possa ser utilizada diáriamente para ajudar os que estão presentes na instalação para que o pacientes tenham um melhor desempenho e alcancem a independência. 
 
