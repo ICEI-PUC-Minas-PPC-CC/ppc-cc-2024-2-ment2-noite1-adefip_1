@@ -54,7 +54,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O dispositivo deve ser responsivo  | MÉDIA | 
-|RNF-002| O dispositivo precisa ter um tempo de resposat baixo, para não afetar a experiência dos jogos  |  MÉDIA | 
+|RNF-002| O dispositivo precisa ter um tempo de resposta baixo, para não afetar a experiência dos jogos  |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
