@@ -11,7 +11,7 @@
 
 ## Objetivos
 
-Criação de ferramentas - software ou hardware - para serem utilizadas na ADEFIP por pacientes e funcionários afim de facilitar seu trabalho e/ou terapia.
+Criação de ferramentas - software ou hardware - que seja capaz de auxiliar na habilitação, reabilitação ou desenvolvimento biopsicossocial dos pacientes e também para ajudar a equipe multidisciplinar da ONG.
  
 
 ## Justificativa
@@ -22,6 +22,6 @@ Criação de ferramentas - software ou hardware - para serem utilizadas na ADEFI
 
 ## Público-Alvo
 
- O Brasil tem cerca de 18,9 milhões de pessoas com deficiência (fonte: https://www.gov.br/mdh/pt-br/navegue-por-temas/pessoa-com-deficiencia/estatisticas). Nossa extensão tem o intuito de ajudar essas pessoas que enfrentam dificuldades, as vezes simples, as vezes complexas.
- A tecnologia que temos e o conhecimento que adquirimos melhorará a vida deles, deixando um pouco mais confortável o dia a dia.
+ Buscamos trazer uma solução capaz de atender requisitos pré-apresentados que ajude o máximo de pessoas (pacientes e equipe de funcionários) presentes na instituição [ADEFIP](https://www.adefip.org.br/) que realiza cerca de 5.000 atendimentos por mês, prestando serviços gratuitos nas áreas de saúde, educação e assistência social para pacientes portadores de deficiência física da comunidade regional.
+ 
 
