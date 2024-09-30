@@ -27,8 +27,8 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Cronograma preliminar
 
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
+Desenvolvimento das etapas do nosso projeto.
+Abaixo, estão as reuniões realizadas com os profissionais da ADEFIP, que juntos debatemos à respeito de como será realizado o projeto do Joystick Funcional.
 
 |Aula   | Descrição de nossas reuniões  | Tempo necessário |
 |------|-------------------------------------------------------|-----------|
