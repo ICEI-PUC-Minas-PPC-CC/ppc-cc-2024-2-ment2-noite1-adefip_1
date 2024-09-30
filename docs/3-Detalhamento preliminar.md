@@ -37,7 +37,7 @@ Abaixo, estão as reuniões realizadas com os profissionais da ADEFIP, que junto
 
 ## Resultados obtidos com nossas reuniões e/ou entrevistas  - "Joystick Funcional  Controle ATARI"
 
-Detalhamento 1º Reunião “ Joystick Funcional - Controle ATARI.” 
+Detalhamento 1º Reunião “ Joystick Funcional  Controle ATARI.” 
 
 Assuntos abordados em nossa primeira reunião (25/09/2024)  : 
 
