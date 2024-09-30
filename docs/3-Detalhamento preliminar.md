@@ -33,7 +33,7 @@ Abaixo, estão as reuniões realizadas com os profissionais da ADEFIP, que junto
 |Aula   | Descrição de nossas reuniões  | Tempo necessário |
 |------|-------------------------------------------------------|-----------|
 |1| 1º Reunião, abordado ideia inicial de nosso projeto   | 35 minutos | 
-|2| 2º Reunião, será na PUC com os profissionais da Adefip   | a realizar |
+|2| 2º Reunião, será na PUC com os profissionais da Adefip   | A realizar |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas  - "Joystick Funcional  Controle ATARI"
 
