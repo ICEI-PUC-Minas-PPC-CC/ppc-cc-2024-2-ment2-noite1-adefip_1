@@ -47,7 +47,7 @@ Vários serviços são adaptados para diferentes pacientes com necessidades espe
 
 Foram pensadas em sua primeira versão, a criança ter uma distração para que ela ficasse em pé enquanto realizasse a fisio. Mas foi percebido que cada profissional via uma utilidade para sua determinada função. 
 
-A nova ideia, seria um joystick acionista funcional. Terapeuta ocupacional, pedagogia e fonoaudiologia. Um acionar para audição suplementar. Paciente não consegue falar e só tem os movimentos com as mãos, membros superiores.
+A nova ideia, seria um joystick acionista funcional. Primeiramente será testado pelas terapeutas socupacionais, pedagogia e fonoaudiologia. Um acionar para audição suplementar. Paciente não consegue falar e só tem os movimentos com as mãos, membros superiores.
 
 Baixo custo, diferentes protótipos, com visão comercial. 
 
