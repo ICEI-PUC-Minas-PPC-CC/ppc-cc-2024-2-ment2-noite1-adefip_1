@@ -31,7 +31,7 @@ Neta seção, deverá ser proposto o cronograma de execução das atividades/enc
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
 |Aula   | Descrição de nossas reuniões  | Tempo necessário |
-|------|-----------------------------------------|----|
+|------|-------------------------------------------------------|-----------|
 |1| 1º Reunião, abordado ideia inicial de nosso projeto   | 35 minutos | 
 |2| 2º Reunião, será marcada na PUC com os profissionais 
         da adefip para melhorar a ideia inicial           | 20 minutos |
