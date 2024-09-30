@@ -30,10 +30,11 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
+|Aula   | Descrição de nossas reuniões  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
+|1| 1º Reunião, abordado ideia inicial de nosso projeto   | 35 minutos | 
+|2| 2º Reunião, será marcada na PUC com os profissionais 
+da adefip para melhorar a ideia inicial                   | 20 minutos |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas  - "Joystick Funcional  Controle ATARI"
 
