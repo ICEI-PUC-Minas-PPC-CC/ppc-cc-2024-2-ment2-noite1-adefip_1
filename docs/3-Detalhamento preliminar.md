@@ -37,11 +37,21 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
+Detalhamento 1º Reunião “ Joystick Funcional - Controle ATARI.” 
 
+Assuntos abordados em nossa primeira reunião (25/09/2024)  : 
 
+Deficiências atuais, diferentes patologias, lesões cefálicas em geral, malformações e amputações. Em média 365 atendidos atualmente. Cerca de 5 mil atendimentos semanais. Trabalham em cima da Cifi. Uso de tecnologias assistivas, onde são usadas em todas as áreas de adefip hoje. 
 
+Vários serviços são adaptados para diferentes pacientes com necessidades específicas. 
 
+Foram pensadas em sua primeira versão, a criança ter uma distração para que ela ficasse em pé enquanto realizasse a fisio. Mas foi percebido que cada profissional via uma utilidade para sua determinada função. 
 
+A nova ideia, seria um joystick acionista funcional. Terapeuta ocupacional, pedagogia e fonoaudiologia. Um acionar para audição suplementar. Paciente não consegue falar e só tem os movimentos com as mãos, membros superiores.
 
+Baixo custo, diferentes protótipos, com visão comercial. 
+
+Acionador conectado ao computador, para trabalhar a comunicação do paciente. Um tipo de joystick que faria o papel de mouse, semelhante ao controle do ATARI. Uma interface em que ele possuísse recursos, onde também seria necessário fazer um trabalho primário com imagens e depois a parte morfológica. 
+
+Deve ser funcional dentro das escolas. Utilizando USB, USB-C, USB-A. Baixo custo Trabalho com alfabetizados e não alfabetizados.
 
