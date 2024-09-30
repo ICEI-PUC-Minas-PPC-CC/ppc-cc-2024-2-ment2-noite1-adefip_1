@@ -34,7 +34,7 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |------|-----------------------------------------|----|
 |1| 1º Reunião, abordado ideia inicial de nosso projeto   | 35 minutos | 
 |2| 2º Reunião, será marcada na PUC com os profissionais 
-da adefip para melhorar a ideia inicial                   | 20 minutos |
+        da adefip para melhorar a ideia inicial           | 20 minutos |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas  - "Joystick Funcional  Controle ATARI"
 
