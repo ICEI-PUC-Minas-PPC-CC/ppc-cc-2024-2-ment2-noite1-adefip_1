@@ -35,7 +35,7 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |1| Introdução à lógica de programação | 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
+## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas - Joystick Funcional - Controle ATARI
 
 Detalhamento 1º Reunião “ Joystick Funcional - Controle ATARI.” 
 
