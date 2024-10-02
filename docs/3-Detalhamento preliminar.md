@@ -7,7 +7,7 @@
 
   <img src="https://ae01.alicdn.com/kf/S8121cee946f745e78bdd692dd774fc53N/Joystick-para-joystick-arcade-flight-stick-gatilho-de-vibra-o-controle-de-dire-o-8-vias.jpg" alt="joystick atari">
 
- Estes controles serão de fácil manuseio por serem ergonômicos, por possuirem um acionador no topo tornando possível o acionamento com o polegar ou a palma da mão. Existe também a possibilidade de, ao invés de comprar um joystick, remontar, com as peças de um mouse, um controle similar.
+ Estes controles serão de fácil manuseio por serem ergonômicos, por possuirem um acionador no topo tornando possível o acionamento com o polegar ou a palma da mão. Existe também a possibilidade de, ao invés de comprar um joystick, realizar a impressão 3D de um modelo e com as peças de um mouse montar o nosso próprio controle.
 Para que seja possível utilizar o controle em computadores buscaremos realizar a conexão através de USB ou USB-C de maneira que se conecte em qualquer dispositivo (notebook, tablet, desktop). 
 
 
