@@ -35,9 +35,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | Lucas | De adaptações em equipamentos. | Melhorar o meu trabalho na gráfica. |
 
 
-## Obs.1: Caso seu grupo vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser PREENCHIDAS.
-## Obs.2: Caso seu grupo vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser PREENCHIDA.
-## Obs.3: Caso seu grupo não vá desenvolver nem uma solução de software e nem uma atividade que demande pesquisa de campo, as seções a seguir DEVERÃO ser REMOVIDAS.
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
