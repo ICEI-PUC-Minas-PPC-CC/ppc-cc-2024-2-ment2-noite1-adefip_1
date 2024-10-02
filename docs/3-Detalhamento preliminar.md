@@ -1,10 +1,13 @@
-## a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
+## Detalhamento Preliminar
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+ Após realizar uma reunião com a participação de uma colaboradora da ONG foi levantado a necessidade, para aqueles que apresentam déficit de coordenação motora (principalmente fina), de um aparelho de hardware, tal como um acionador, que seja capaz de ser utilizado como um mouse, que seja portátil para que além do uso durante a terapia na ADEFIP possa também beneficiar durante o horário escolar.  Para isso, além do dispositivo de hardware será também necessário a construção de um software (front-end) para a interação hardware/software. 
+ Para o hardware a equipe, em conversas dentro do grupo, levantou a possibilidade de buscar um modelo similar ao do console Atari, tal como o da foto:
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+  <img src="https://down-br.img.susercontent.com/file/a8326ef64c6d9de8dea2593c80f23143" alt="atari controller"> 
 
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Este controle seria de fácil manuseio por ser ergonômico, o mesmo possui um acionador no topo tornando possível o acionamento com o polegar ou a palma da mão.
+Para que seja possível utilizar o controle em computadores buscaremos realizar a conexão através de USB ou USB-C de maneira que se conecte em qualquer dispositivo (notebook, tablet, desktop). 
+
 
 ## User Flow
 
