@@ -14,6 +14,7 @@ Para que seja possível utilizar o controle em computadores buscaremos realizar 
 ## User Flow
 
 Aqui está o User Flow do nosso projeto:
+
 ![UserFlowAdefip_1](https://github.com/user-attachments/assets/721a3ad4-9b76-4b1c-b7a4-5854e25f0feb)
 
 Utilizando o método de fluxo de usuário (User Flow), demonstramos brevemente como serão as etapas de funcionamento da nossa interface web para comunicação alternativa, voltada aos alunos da ADEFIP.
