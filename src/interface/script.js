@@ -9,6 +9,11 @@ function abrirTelaCheia(cartao)
     divTelaCheia.appendChild(imagem);
     divTelaCheia.appendChild(texto);
 
+    const som = new Audio();
+    const textoCartao = texto.textContent.toLowerCase();
+    som.src = `${textoCartao}.mp3`; // o arquivo de audio sera: 'triste.mp3'
+    som.play();
+
     document.body.appendChild(divTelaCheia);
 
     divTelaCheia.addEventListener('click', function() 
