@@ -1,7 +1,5 @@
 # Sprint 1
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
 
 Durante o desenvolvimento físico do nosso projeto, enfrentamos diversas dificuldades, especialmente na busca por um software que pudesse ler os sinais analógicos do controle joystick e traduzi-los em movimentos do mouse, além de simular teclas do teclado. Após várias tentativas e erros, conseguimos encontrar um software eficaz chamado AITrack, que rastreia os movimentos dos olhos, rosto e cabeça.
 
