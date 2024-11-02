@@ -15,7 +15,6 @@
   
   - [Opção 1](https://produto.mercadolivre.com.br/MLB-4776677160-controle-joystick-thrustmaster-usb-joystick-pc-preto-_JM#polycard_client=search-nordic&position=30&search_layout=grid&type=item&tracking_id=c805b148-b092-4354-8258-d7d5a14ed9cc)
   - [Opção 2](https://produto.mercadolivre.com.br/MLB-5073235936-controle-joystick-saitek-st90-para-pc-novo-lacrado-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=f6665e5d-aaf9-4969-b7cc-bdbb5eff6c69)
-   - [Opção 4](https://produto.mercadolivre.com.br/MLB-3867264274-controle-atari-2600-usb-apenas-para-computadores-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D3c600713-8f69-4512-9432-ebc45c83810a)
+   - [Opção 3](https://produto.mercadolivre.com.br/MLB-3867264274-controle-atari-2600-usb-apenas-para-computadores-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D3c600713-8f69-4512-9432-ebc45c83810a)
  
 
-  Dentre as opções, acreditamos que a 4ª seja a mais apropriada por possuir uma entrada USB, tornando a conexão mais rápida e eficaz, e também o botão para fazer as seleções.
