@@ -22,6 +22,7 @@ Como estudantes de Ciência da Computação, nossa missão é contribuir para a 
 Hoje, cerca de 25–30% das crianças com TEA não desenvolvem nenhuma linguagem verbal funcional ou perma- necem minimamente verbais (MV), ou seja, do ponto de vista epidemiológico, na população geral o número de TEAs não
 verbais ou crianças MV é bem alto. O número de pessoas afetadas por patologias neuromotoras tem crescido, com um aumento significativo nos casos de doenças neurológicas, como AVC (Acidente Vascular Cerebral), Alzheimer e outras demências. Em 2021, cerca de 3,4 bilhões de pessoas no mundo apresentaram alguma condição relacionada ao sistema nervoso, evidenciando a urgência de intervenções efetivas para apoiar essa população.
 Fontes:
+
 -> Escoladigital.pr.gov.br - LINK https://professor.escoladigital.pr.gov.br/educacao_especial/deficiencia_fisica_neuromotora
 
 -> Scielo.BR - LINK https://www.scielo.br/j/rpp/a/Gqx67VnGrJSXXb8npzKTVWc/?lang=pt&format=pdf#:~:text=No%20in%C3%ADcio%2C%20cerca%20de%2025,necem%20minimamente%20verbais%20(MV).
