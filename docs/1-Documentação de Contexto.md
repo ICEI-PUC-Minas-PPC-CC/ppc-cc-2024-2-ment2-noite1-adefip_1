@@ -16,8 +16,10 @@ Criação de ferramentas - software e hardware - que seja capaz de auxiliar na h
 
 ## Justificativa
 
- As sequelas neuromotoras geram grandes impactos na autonomia, interferências nas atividades de vida diárias (AVD) e limitações mas é possível encarar essas limitações, com auxílio da reabilitação, realizada na ADEFIP, e também em virtude do desenvolvimento de ferramentas para auxílio e adaptação de forma que os pacientes acometidos possam levar vidas funcionais, independentes e com qualidade de vida. 
- Como alunos da Ciência da Computação, somos capazes de desenvolver soluções que auxiliem nas AVDs dos pacientes, de forma que os mesmos conquistem sua independência.
+As sequelas neuromotoras têm um impacto significativo na autonomia dos indivíduos, resultando em dificuldades nas atividades de vida diária (AVD) e limitações que podem comprometer sua qualidade de vida. A deficiência física neuromotora, caracterizada por impedimentos nos movimentos e na coordenação, exige adaptações que garantam acessibilidade a espaços e serviços, permitindo que as pessoas se integrem plenamente à sociedade.
+A reabilitação, realizada na ADEFIP, é crucial nesse processo, pois possibilita que os pacientes desenvolvam habilidades e adquiram ferramentas que os ajudem a enfrentar suas limitações. Com o avanço das tecnologias e o desenvolvimento de soluções inovadoras, temos a oportunidade de criar recursos que auxiliem na superação dessas barreiras, como exemplo, é o dispostivo que será desenvolvido em forma de JoyStick por nós.
+Como estudantes de Ciência da Computação, nossa missão é contribuir para a melhoria da qualidade de vida dos pacientes, desenvolvendo tecnologias que promovam a autonomia e a independência. Acreditamos que, por meio de um trabalho colaborativo, podemos projetar ferramentas que não apenas facilitam as AVDs, mas também promovem uma vida funcional e plena, permitindo que as pessoas com deficiência motora realizem suas atividades cotidianas com dignidade e satisfação. Nossa missão reforça a importância da reabilitação e do papel da tecnologia, além de manter um foco positivo nas capacidades dos pacientes.
+Fonte -> escoladigital.pr.gov.br - LINK https://professor.escoladigital.pr.gov.br/educacao_especial/deficiencia_fisica_neuromotora
 
 
 ## Público-Alvo
