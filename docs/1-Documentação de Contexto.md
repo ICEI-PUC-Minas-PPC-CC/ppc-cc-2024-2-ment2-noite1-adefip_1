@@ -1,8 +1,8 @@
 # Introdução
 
  A Associação dos Deficientes Físicos de Poços de Caldas [(ADEFIP)](https://www.instagram.com/adefip/) é uma instituição da cidade que busca habilitar e reabilitar deficientes físicos (qualquer tipo de deficiência) de todas as idades, para inclusão deles na sociedade. A associação conta com diversos centros (reabilitação, inclusão escolar, inclusão profissional, paradesportivo) e uma vasta equipe multidisciplinar para abordagem e terapia. 
- --encaixar um problema quando soubermos o que iremos realizar --. 
-  Nosso grupo busca --após conversa com os responsáveis-- projetar e criar uma solução que possa ser utilizada diáriamente para ajudar os que estão presentes na instalação para que o pacientes tenham um melhor desempenho e alcancem a independência. 
+ Após conversa com os responsáveis pela instituição foi apontado a necessidade da criação de um dispositivo para utilização dos pacientes com transtorno do desenvolvimento da coordenação, principalmente a habilidade motora fina.
+  Nosso grupo busca projetar e criar um joystick que possa ser utilizada diáriamente para ajudar os que estão presentes na instalação para que o pacientes tenham um melhor desempenho e alcancem a independência.
 
 ## Problema
 
@@ -11,7 +11,7 @@
 
 ## Objetivos
 
-Criação de ferramentas - software ou hardware - que seja capaz de auxiliar na habilitação, reabilitação ou desenvolvimento biopsicossocial dos pacientes e também para ajudar a equipe multidisciplinar da ONG.
+Criação de ferramentas - software e hardware - que seja capaz de auxiliar na habilitação, reabilitação ou desenvolvimento biopsicossocial dos pacientes e também para ajudar a equipe multidisciplinar da ONG.
  
 
 ## Justificativa
