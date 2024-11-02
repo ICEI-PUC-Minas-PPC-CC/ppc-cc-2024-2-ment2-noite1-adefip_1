@@ -18,4 +18,5 @@
   - [Opção 3](https://produto.mercadolivre.com.br/MLB-5122485938-para-fight-stick-joystick-para-tv-pc-console-de-videog-_JM#position%3D29%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D8a9e4885-70c0-4eed-bb39-663322f8433d)
   - [Opção 4](https://produto.mercadolivre.com.br/MLB-3867264274-controle-atari-2600-usb-apenas-para-computadores-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D3c600713-8f69-4512-9432-ebc45c83810a)
   - [Opção 5](https://produto.mercadolivre.com.br/MLB-705499181-comando-nacional-para-fliperamas-e-joysticks-com-micro-_JM#position%3D9%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Dc83d1306-ae55-450d-b82a-588ac63756c4)
-  
+
+  Dentre as opções, acreditamos que a 4ª seja a mais apropriada por possuir uma entrada USB, tornando a conexão mais rápida e eficaz, e também o botão para fazer as seleções.
