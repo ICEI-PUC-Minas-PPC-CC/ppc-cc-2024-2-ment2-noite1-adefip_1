@@ -24,7 +24,7 @@ Persona 03
 
 |**Karina Vieira dos Reis**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_1/blob/main/docs/img/pedagogaKarina.jpeg" width="200" height="200"/>|**Idade:** 20 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Psicopedagoga da Adefip.       |**Atribuições:** Psicopedagoga na Adefip, auxiliando os atendidos. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_1/blob/main/docs/img/pedagogaKarina.jpg" width="200" height="200"/>|**Idade:** +- 34 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Psicopedagoga da Adefip.       |**Atribuições:** Psicopedagoga na Adefip, auxiliando os atendidos. 
 |**Motivações:** Ela oferece técnicas que podem facilitar o aprendizado e a adaptação de Victor Hugo a diferentes contextos, considerando suas necessidades específicas. |**Problema:**  Ela também trabalha para promover a inclusão social de Victor Hugo, ajudando-o a interagir com seus colegas e a se sentir mais à vontade em ambientes sociais.   |**Hobbies, história:** Karina já trabalha na Adefip há mais de 10 anos e adora a ADEFIP, junto isso também participa das maratonas de corrida da instituição.
 
 
