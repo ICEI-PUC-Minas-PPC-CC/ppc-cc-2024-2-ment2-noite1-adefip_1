@@ -1,15 +1,15 @@
 # Sprint 1
 
 
-  Durante o desenvolvimento físico do nosso projeto, enfrentamos diversas dificuldades, especialmente na busca por um software que pudesse ler os sinais analógicos do controle joystick e traduzi-los em movimentos do mouse, além de simular teclas do teclado. Após várias tentativas e erros, conseguimos encontrar um software eficaz chamado AITrack, que rastreia os movimentos dos olhos, rosto e cabeça.
+  Durante o desenvolvimento físico do nosso projeto, enfrentamos diversas dificuldades, especialmente na busca por um software que pudesse ler os sinais analógicos do joystick e traduzi-los em movimentos do mouse, além de simular teclas do teclado. Após várias tentativas e erros, conseguimos encontrar um software eficaz chamado AITrack, que rastreia os movimentos dos olhos, rosto e cabeça.
 
-  No entanto, o AITrack sozinho não era suficiente para nossas necessidades. Precisávamos de um segundo software que pudesse capturar esses movimentos e aplicá-los no mouse e no teclado. Foi então que descobrimos o OpenTrack, que, ao ser conectado ao AITrack, consegue simular o movimento da cabeça com o movimento do mouse em jogos. Contudo, a falta de experiência em programação dificultou nossa capacidade de modificar o código para utilizar os movimentos fora do ambiente de jogos.
+ Conseguimos encontrar um software eficaz chamado AITrack. Precisávamos de um segundo software que pudesse capturar esses movimentos e aplicá-los no mouse e no teclado. Foi então que descobrimos o OpenTrack, que, ao ser conectado ao AITrack, consegue simular o movimento da cabeça com o movimento do mouse em jogos. Contudo, a falta de experiência em programação dificultou nossa capacidade de modificar o código para utilizar os movimentos fora do ambiente de jogos.
 
   Em nossa busca por soluções, encontramos um terceiro software que integra as funções dos dois anteriores, aplicando os movimentos na tela conforme o usuário gira a cabeça. Embora o ponteiro do mouse tenha funcionado, ele se movia apenas 1 cm para o lado, o que não era o ideal.
 
   Finalmente, encontramos uma alternativa mais acessível: o Gopher.exe. Este software permite que, ao ser iniciado e minimizado, ele funcione automaticamente, possibilitando que o joystick controle o mouse na tela de forma eficaz. Com o Gopher.exe, conseguimos selecionar e mover o mouse utilizando o botão do joystick, facilitando assim nosso projeto.
 
-  Para tanto, será necessário, além do software já descrito, também o joystick que proporcione maior facilidade e ergonomia para os usuários, desta maneira buscamos em sites de vendas nacionais as opções mais viáveis, algumas opções, similares ao joystick do video-game Atari nos chamaram atenção por possuir um botão analógico, que utilizaremos para que, tal como em um mouse convencional, possam clicar e selecionar a opção desejada. Há também a possibilidade de utilizar um joystick comum mas que levanta a questão de como será feita a seleção da opção desejada sem o gatilho.
+  Será necessário, além do software descrito, um joystick que ofereça maior facilidade e ergonomia aos usuários que proporcione maior facilidade e ergonomia para os usuários, desta maneira buscamos em sites de vendas nacionais as opções mais viáveis, algumas opções, similares ao joystick do video-game Atari nos chamaram atenção por possuir um botão analógico, que utilizaremos para que, tal como em um mouse convencional, possam clicar e selecionar a opção desejada. Há também a possibilidade de utilizar um joystick comum mas que levanta a questão de como será feita a seleção da opção desejada sem o gatilho.
 
   Algumas das opções levantadas:
   
@@ -33,6 +33,6 @@
    - [Controle do Xbox 360 e Gopher](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_1/blob/main/docs/control%26gopher.jpg)
    - [Interface e Controle do Xbox 360](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_1/blob/main/docs/control%26interface.jpg)
 
-  Gravamos um vídeo para breve demonstração da utilização da interface. Você pode acessá-lo através do link deixado abaixo.
+  Gravamos um vídeo para uma breve demonstração da utilização da interface. Você pode acessá-lo através do link deixado abaixo.
 
-   - [Exiição da interface web](https://youtu.be/fd0pvyCBF0k)
+   - [Exibição da interface web](https://youtu.be/fd0pvyCBF0k)
