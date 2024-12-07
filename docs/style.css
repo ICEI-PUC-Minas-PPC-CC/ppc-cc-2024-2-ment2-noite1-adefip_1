@@ -9,7 +9,7 @@ body
 {
     font-family: 'Comic Sans MS', sans-serif;
     background-color: #abeeff;
-    background-image: url(fundo.jpg);
+    background-image: url('imagens/fundo.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
