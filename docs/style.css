@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+@media (max-width: 768px) {
+    .container {
+    flex-direction: column;
+    }
+
 body 
 {
     font-family: 'Comic Sans MS', sans-serif;
@@ -20,10 +25,11 @@ body
 
 .container {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap; 
     gap: 20px;
     width: 90%;
-    max-width: 1400px;
+    max-width: 1200px;
     justify-content: center; 
 }
 
@@ -61,7 +67,7 @@ body
 
 .cartao img 
 {
-    width: 80%;
+    width: 100%;
     height: auto;
     margin: 0 auto;
 }
@@ -111,3 +117,4 @@ body
     color: #111111;
     font-weight: bold;
 }
+
