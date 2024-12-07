@@ -1,12 +1,14 @@
 # Explicação do Projeto de Interface
 
 Desenvolvemos uma interface web para utilização dos alunos da ADEFIP. 
-Nela, eles poderão demonstrar o que estão sentindo e querem fazer no momento, através de ilustrações, que ao serem clicadas, se expandem na tela e 
+Nela, eles poderão demonstrar o que estão sentindo e desejando fazer no momento, através de ilustrações, que ao serem clicadas, se expandem na tela e 
 reproduzem um áudio relacionado à imagem, o que facilita a comunicação de todos os usuários.
 
 ## Instalação do Site
 
-Tentamos utilizar o GitHub Pages para deixarmos o acesso à interface mais simplificado, porém, não conseguimos deixar tudo corretamente apontado,
-pois quando acessamos o link, as imagens da interface não estão sendo carregadas. Tentei colocar os arquivos da programção dentro da pasta docs, src e deixá-los na raíz, mas 
-o erro persistiu. Vamos realizar mais testes e deixar tudo mais fácil, para que todos tenham acesso ao projeto.
+Utilizamos o GitHub Pages para criarmos o acesso universal ao site. Havíamos tido problemas nas etapas anteriores pois as imagens contidas na interface não estavam sendo 
+corretamente carregadas no navegados. Após diversas mudanças nas estruturas dos diretórios, concluímos que o problema erapor conta da extensão das imagens, anteriormente eram imagens do tipo "PNG", 
+mas após adicionarmos uma imagem de fundo "JPG', resolvemos testar com uma imagem do tipo "JPG" que representasse o ícone "Feliz" e tivemos sucesso.
+
+Agora substituímos todas as imagens para outras com a extensão correta para o carregamento da interface na web. 
 
