@@ -9,7 +9,7 @@
 - [André Henrique da Silva](https://github.com/AndreSilva89)
 - [Danilo Oliveira Andrade](https://github.com/Dandradedev)
 - [Diana Vitoria Silva Barbosa](https://github.com/dsanabarb)
-- [Luiz Gustavo Julio Salles](https://github.com/EL7SEVEN)
+- [Luiz Gustavo Julio Salles](https://github.com/gustavosallesz)
 - [Otavio Silva Ronsini](https://github.com/otavioronsini)
 
 ## Professores
