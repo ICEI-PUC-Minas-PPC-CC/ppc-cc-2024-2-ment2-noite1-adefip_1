@@ -11,17 +11,38 @@ function abrirTelaCheia(cartao)
 
     const som = new Audio();
     const textoCartao = texto.textContent.toLowerCase();
-    som.src = `audios/${textoCartao}.mp3`; // Corrigido o caminho para o áudio
-    som.play();
+    som.src = `${textoCartao}.mp3`; 
+
+    let vezesReproduzidas = 0;
+
+    function reproduzirAudio()
+    {
+        if (vezesReproduzidas < 3) {
+            som.play();
+            vezesReproduzidas++;
+            som.onended = reproduzirAudio; // Reproduz novamente ao terminar
+        } else {
+            // Depois de tocar 3 vezes, fecha a tela cheia
+            divTelaCheia.style.opacity = '0';
+            setTimeout(() => divTelaCheia.remove(), 500);
+        }
+    }
+
+    reproduzirAudio(); // Inicia a reprodução
 
     document.body.appendChild(divTelaCheia);
 
-    divTelaCheia.addEventListener('click', function ()
+    // Fecha a tela cheia ao clicar fora da imagem
+    divTelaCheia.addEventListener('click', function (event)
     {
-        divTelaCheia.style.opacity = '0';
-        setTimeout(() => divTelaCheia.remove(), 500);
+        if (event.target === divTelaCheia) { // Verifica se clicou fora da imagem
+            som.pause(); // Interrompe a reprodução do áudio
+            divTelaCheia.style.opacity = '0';
+            setTimeout(() => divTelaCheia.remove(), 500);
+        }
     });
 
+    // Animação de transição
     divTelaCheia.style.opacity = '0';
     setTimeout(() => divTelaCheia.style.opacity = '1', 0);
 }
