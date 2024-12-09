@@ -71,15 +71,25 @@ document.addEventListener('DOMContentLoaded', function ()
         atualizarSelecao();
     }
 
-    document.addEventListener('keydown', function (event)
-    {
-        if (event.key === 'ArrowLeft')
-            navegar('esquerda');
-        else if (event.key === 'ArrowRight')
-            navegar('direita');
-        else if (event.key === 'Enter')
-            abrirTelaCheia(cartoes[selecionadoIndex]);
-    });
+   document.addEventListener('keydown', function (event) {
+    if (event.key === 'ArrowLeft') {
+        navegar('esquerda');
+    } else if (event.key === 'ArrowRight') {
+        navegar('direita');
+    } else if (event.key === 'ArrowUp') {
+        if (selecionadoIndex - 3 >= 0) {
+            selecionadoIndex -= 3;
+            atualizarSelecao();
+        }
+    } else if (event.key === 'ArrowDown') {
+        if (selecionadoIndex + 3 < cartoes.length) {
+            selecionadoIndex += 3;
+            atualizarSelecao();
+        }
+    } else if (event.key === 'Enter') {
+        abrirTelaCheia(cartoes[selecionadoIndex]);
+    }
+});
 
     cartoes.forEach((cartao, index) =>
     {
