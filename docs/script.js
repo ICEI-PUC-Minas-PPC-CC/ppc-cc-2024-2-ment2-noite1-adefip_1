@@ -11,7 +11,7 @@ function abrirTelaCheia(cartao)
 
     const som = new Audio();
     const textoCartao = texto.textContent.toLowerCase();
-    som.src = `${textoCartao}.mp3`; 
+    som.src = `audios/${textoCartao}.mp3`; 
 
     let vezesReproduzidas = 0;
 
