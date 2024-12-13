@@ -21,9 +21,9 @@ function abrirTelaCheia(cartao)
         if (vezesReproduzidas < 3) {
             som.play();
             vezesReproduzidas++;
-            som.onended = reproduzirAudio; // Reproduz novamente ao terminar
+            som.onended = reproduzirAudio; 
         } else {
-            // Depois de tocar 3 vezes, fecha a tela cheia
+            // Depois de tocar 3 vezes o áudio, fecha a tela cheia automaticamente
             divTelaCheia.style.opacity = '0';
             setTimeout(() => divTelaCheia.remove(), 500);
         }
@@ -33,7 +33,7 @@ function abrirTelaCheia(cartao)
 
     document.body.appendChild(divTelaCheia);
 
-    // Fecha a tela cheia ao clicar fora da imagem
+    // Fecha a tela cheia ao clicar fora da imagem (Num canto qualquer da tela que não corresponda ao tamanho da imagem)
     divTelaCheia.addEventListener('click', function (event)
     {
         if (event.target === divTelaCheia) { // Verifica se clicou fora da imagem
@@ -43,7 +43,7 @@ function abrirTelaCheia(cartao)
         }
     });
 
-    // Animação de transição
+    // Animação de transição de uma imagem para outra
     divTelaCheia.style.opacity = '0';
     setTimeout(() => divTelaCheia.style.opacity = '1', 0);
 }
