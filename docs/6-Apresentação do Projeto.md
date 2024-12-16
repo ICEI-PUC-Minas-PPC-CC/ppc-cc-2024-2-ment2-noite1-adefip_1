@@ -5,4 +5,4 @@ Cada etapa foi registrada por um participante, e na execução final para demons
 
 ---
 
-Segue link do YouTube que contém a postagem de nosso vídeo:  [(ADEFIP_1 - Apresentação Final)](https://youtu.be/SqD6JBnbXro)
+Segue link do YouTube que contém a postagem de nosso vídeo:  [ADEFIP_1 - Apresentação Final](https://youtu.be/SqD6JBnbXro)
